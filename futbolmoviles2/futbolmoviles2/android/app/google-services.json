@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "45217744748",
+    "project_id": "futbolmoviles2",
+    "storage_bucket": "futbolmoviles2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45217744748:android:555c41eda8b09e3d5b9549",
+        "android_client_info": {
+          "package_name": "com.example.futbolmoviles2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45217744748-dq4diiri8csbaj5rdj5mrmg9tt4q0099.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.futbolmoviles2",
+            "certificate_hash": "a844f9fe187f9ce005d932f8b0257c817ca68cdc"
+          }
+        },
+        {
+          "client_id": "45217744748-2k705juod3ajrgsmgt65b8vnkmb2anq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlP-Nw7rWfZTwM2Id7EfZM6LxBJp2WX4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45217744748-2k705juod3ajrgsmgt65b8vnkmb2anq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
